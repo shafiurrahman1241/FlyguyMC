@@ -1,0 +1,9 @@
+name: FlyguyMC
+author: PhilosophyWithJosh
+version: 1.0.0
+api-version: 1.16
+main: mcpc.PhilosophyWithJosh.FlyguyMC.Main
+description: spawns TNT directly under the player
+commands:
+  flyguy:
+    description: spawns TNT under the player
