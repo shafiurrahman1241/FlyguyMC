@@ -45,7 +45,7 @@ public class TntCommand implements CommandExecutor
 			Block waterBlock = tntLoc.getBlock();
 			waterBlock.setType(Material.WATER);
 			
-			p.sendMessage("Hi it's Shafiur. It's fun");
+			p.sendMessage("Hi it's Shafiur. It's a fun group project");
 			return true;
 
 
